@@ -2,4 +2,3 @@ test for sourcetree and github connection.
 
 test for create develop branch -1
 
-test for commit user name
